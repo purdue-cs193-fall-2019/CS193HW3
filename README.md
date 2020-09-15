@@ -16,7 +16,7 @@ Needless to say, they've left a mess of things. It's up to you to identify what'
 
 ## Step 1: Clone this repository
 Without getting too deep into the commands of git, we want to "clone" our repository and edit it locally
-like any other file (if you are interested, [check out this guide](http://rogerdudler.github.io/git-guide/) 
+like any other file (if you are interested, [check out this guide](http://rogerdudler.github.io/git-guide/)) 
 
 IntelliJ has a great deal of support for exactly this! We can store a local version of our repository, and 
 push any changes to the remote repo easily!
